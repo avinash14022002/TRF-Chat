@@ -1,10 +1,17 @@
+<div>
+  <p>
+    <img align="left" src=".logo/The%20Robotic%20Forum%20Logo.jpg" alt="TRF_logo">
+    <img align="right" src=".logo/ROBOSOFT.png" alt="RoboSoft_logo" height = "200px">
+  </p>
+</div>
+<br><br><br><br><br><br><br><br><br>
+
 <p align="center">
-TRF Chat
+<img src = ".logo/TRF-chart.png">
 </p>
 <p align="center">
-Android App | TRF RoboDroid Workshop
-  <br>
-TRF Chat is the Android Application that TRF developed during RoboDroid Workshop 2020.
+<h3>Android App | TRF RoboDroid Workshop</h3>
+<h4>TRF Chat is the Android Application that TRF developed during RoboDroid Workshop 2020.</h4>
 </p>
 
 # Features
