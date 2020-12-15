@@ -14,6 +14,9 @@
 <h4>TRF Chat is the Android Application that TRF developed during RoboDroid Workshop 2020.</h4>
 </p>
 
+<img src=".logo/License.png" height = "75px"><img src=".logo/Actions.png" height = "75px"><img src=".logo/Build.png" height = "75px"><img src=".logo/Gitter.png" height = "75px">
+
+
 # Features
 
 
